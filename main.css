@@ -1,0 +1,30 @@
+.arts {
+ display: flex;
+ flex-direction: row;
+ justify-content: space-around;
+ 
+
+ 
+}
+
+#art1 {
+border: 2px red solid;
+padding: 10px;
+margin-right: 20px;
+margin-top: 5px;
+flex-grow: 1;
+height: 50px;
+
+
+
+
+}
+
+#art2 {
+  border: 2px blue solid;
+  padding: 10px;
+  margin-left: 20px;
+  margin-top: 5px;
+  flex-grow: 1;
+
+}
